@@ -1,0 +1,35 @@
+* {
+    background-color: bisque;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 200px;
+}
+.top {
+    background-color: blue;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+.mid{
+    background-color: chocolate;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+.bot{
+    background-color: crimson;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
