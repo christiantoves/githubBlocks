@@ -33,3 +33,9 @@ img {
     align-items: center;
     margin: 20px;
 }
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
